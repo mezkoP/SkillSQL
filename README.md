@@ -6,6 +6,6 @@ Repozytorium zawiera rozwiązane przeze mnie ćwiczenia, które miały na celu n
 - MSSQL
 
 ## Diagram bazy danych
-![Diagram bazy danych](https://github.com/mezkoP/SkillSQL/blob/main/images/Obraz1.png)
+![Diagram bazy danych](https://github.com/mezkoP/SkillSQL/blob/main/images/Diagram.png)
 
 
