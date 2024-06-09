@@ -3,7 +3,7 @@ Repozytorium zawiera rozwiązane przeze mnie ćwiczenia, które miały na celu n
 
 ## Technologie
 - T-SQL
-- MSSQL
+- SSMS
 
 ## Diagram bazy danych
 ![Diagram bazy danych](https://github.com/mezkoP/SkillSQL/blob/main/images/Diagram.png)
